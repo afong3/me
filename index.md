@@ -98,9 +98,9 @@ As there are still a couple of months left in our academic term, we have yet to 
 ## Rock Climbing
 
 # About IGEN 
-[Integrated Engineering](https://www.integratedengineers.ca/) is a one of a kind, group project focused, and interdisciplinary engineering degree in which students learn fundamental engineering concepts in each of the classical disciplines. Not only do we get to work on a year long capstone in our 2nd, 3rd, and 4th years - we get to propose the projects, giving us experience in concept generation and effectively pitching our ideas to our peers. 
+[Integrated Engineering](https://www.integratedengineers.ca/) is a one of a kind, group-project focused, and interdisciplinary engineering degree in which students learn fundamental engineering concepts in each of the classical disciplines. Not only do we get to work on a year long capstone in our 2nd, 3rd, and 4th years - we think of and propose the projects, giving us experience in concept generation and effectively pitching our ideas to our peers. 
 
-Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our projects substantially more interesting than a capstone filled of 5 students from the same facutly. For example, software focused students get to work closely with students who love cars (mech), students who prefer to herd electrons (elec), and students who like to putting concrete under compression (civil). 
+Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our group projects substantially more interesting than a capstone filled of 5 students from the same discipline. For example, software focused students get to work closely with students who love cars (mech), students who prefer to herd electrons (elec), and students who like to putting concrete under compression (civil). 
 
 
 
