@@ -6,7 +6,7 @@ My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at
 # Projects
 
 ## Active
-- [Bike Sentry - 3rd Year Capstone](#bike-sentry)
+- [Bike Sentry] - 3rd Year Capstone(#bike-sentry)
 - [Grapevine Cold Hardiness](#grapevine-cold-hardiness)
 - [AgroBot - Weed Extermination Robot](#agrobot)
 - [Star Collector](#star-collector) (active but backlogged)
@@ -52,7 +52,7 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Progress
 
 ## Star Collector
-![led_sim_gif](../main/images/star_collector.png)
+![star_collector](../main/images/star_collector.png)
 
 ### Summary
 ### Progress
