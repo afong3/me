@@ -83,7 +83,7 @@ As there are still a couple of months left in our academic term, we have yet to 
 
 ## Cycling
 ### Bellingham, WA to Williston, ND Bike Tour (3000 km)
-![bike_tour_map](../../main/images/bike_tour_final.png)
+![bike_tour_map](../main/images/bike_tour_final.png)
 
 
 ## Open Water Swimming
