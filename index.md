@@ -12,8 +12,8 @@ My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at
 - [Star Collector](#star-collector) (active but backlogged)
 
 ## Archive
-- [MusicMe](#musicme) - 2nd Year Capstone 
 - [Brain Signal Classification](#brain-signal-classification)
+- [MusicMe](#musicme) - 2nd Year Capstone 
 - [Climate Mapping](#climate-mapping)
 - [Bike Tour Updater](#mom-updater)
 - [Line Following Robot](#line-following-robot)
@@ -46,6 +46,7 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Progress
 
 ## AgroBot
+![sim](https://github.com/afong3/me/tree/main/images/agrobot_sim_led.gif)
 ### Summary
 ### Progress
 
@@ -74,10 +75,15 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Outcome
 
 ## Electric Ukulele
+![uke](https://github.com/afong3/me/tree/main/images/electric_ukulele_1.jpg)
+![uke_2](https://github.com/afong3/me/tree/main/images/electric_ukulele_2.jpg)
 ### Summary
 ### Outcome
 
 ## Cycling
+### Bellingham, WA to Williston, ND Bike Tour (3000 km)
+![bike_tour_map](https://github.com/afong3/me/tree/main/images/bike_tour_final.png)
+
 
 ## Open Water Swimming
 
