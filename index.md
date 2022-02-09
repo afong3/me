@@ -46,7 +46,8 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Progress
 
 ## AgroBot
-![sim](https://github.com/afong3/me/tree/main/images/agrobot_sim_led.gif)
+<img src="https://github.com/afong3/me/tree/main/images/agrobot_sim_led.gif"
+     alt = "sim_gif" width = "400" height = "500">
 ### Summary
 ### Progress
 
