@@ -83,8 +83,8 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Outcome
 
 ## Electric Ukulele
-![uke_1](../main/images/electric_ukulele_1.jpg)
-![uke_2](../main/images/electric_ukulele_2.jpg)
+![uke_1](../main/images/electric_ukulele_1.JPG)
+![uke_2](../main/images/electric_ukulele_2.JPG)
 ### Summary
 ### Outcome
 
