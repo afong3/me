@@ -47,12 +47,12 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Progress
 
 ## AgroBot
-![led_sim_gif](/../main/images/agrobot_led_sim.gif)
+![led_sim_gif](/images/agrobot_led_sim.gif)
 ### Summary
 ### Progress
 
 ## Star Collector
-![star_collector](/../main/images/star_collector.png)
+![star_collector](/images/star_collector.png)
 
 ### Summary
 ### Progress
@@ -75,22 +75,22 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Outcome
 
 ## Line Following Robot
-![lfr_1](/../main/images/line_following_robot_1.jpg)
-![lfr_2](/../main/images/line_following_robot_2.jpg)
-![lfr_3](/../main/images/line_following_robot_3.jpg)
+![lfr_1](/images/line_following_robot_1.jpg)
+![lfr_2](/images/line_following_robot_2.jpg)
+![lfr_3](/images/line_following_robot_3.jpg)
 
 ### Summary
 ### Outcome
 
 ## Electric Ukulele
-![uke_1](/../main/images/electric_ukulele_1.JPG)
-![uke_2](/../main/images/electric_ukulele_2.JPG)
+![uke_1](/images/electric_ukulele_1.JPG)
+![uke_2](/images/electric_ukulele_2.JPG)
 ### Summary
 ### Outcome
 
 ## Cycling
 ### Bellingham, WA to Williston, ND Bike Tour (3000 km)
-![bike_tour_map](/../main/images/bike_tour_final.png)
+![bike_tour_map](/images/bike_tour_final.png)
 
 
 ## Open Water Swimming
