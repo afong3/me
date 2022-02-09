@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to my Porfolio!
 
-You can use the [editor on GitHub](https://github.com/afong3/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# About
+My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at the University of British Columbia, Vancouver campus. (If you haven't heard about IGEN before, [click me!](#about-igen)!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+## Active
+- Bike Sentry - 3rd Year Capstone
+- Grapevine Cold Hardiness
+- Weed Extermination Robot 
+- Star Collector (active but backlogged)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Archive
+- MusicMe - 2nd Year Capstone
+- Brain Signal Classification 
+- Climate Mapping
+- Mom Updater 
+- Electric Ukulele
+- Line Following Robot
 
-```markdown
-Syntax highlighted code block
+# Hobbies
+- Road / Gravel Cycling
+- Open Water Swimming
+- Rock Climbing (indoors and outdoors)
+- 
+## Notable Trips / Experiences
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Work Experience
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# About IGEN 
+[Integrated Engineering](https://www.integratedengineers.ca/) is a one of a kind, group project focused, and interdisciplinary engineering degree in which students learn fundamental engineering concepts in each of the classical disciplines. Not only do we get to work on a year long capstone in our 2nd, 3rd, and 4th years - we get the experience of concept generation and pitching our ideas to our peers. 
 
-[Link](url) and ![Image](src)
-```
+Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our projects substantially more interesting than a capstone filled of 5 students from the same facutly. For example, software focused students get to work closely with students who love cars (mech), students who prefer to herd electrons (elec), and students who like to work with concrete (civil). 
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afong3/me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
