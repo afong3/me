@@ -3,7 +3,7 @@
 # About
 My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at the University of British Columbia, Vancouver campus. (If you haven't heard about IGEN before, [click me!](#about-igen)). I love learning practical skills and applying them to new and old problems. My current muse is data analysis but I'm pretty content whenever I have a fun problem that can be tackled with code. When I'm not working on my projects, I love getting outside spending time soaking in the sunshine (or more accurately, rain) in Beautiful British Columbia. 
 
-# Project
+# Projects
 
 ## Active
 - [Bike Sentry - 3rd Year Capstone](#bike-sentry)
@@ -29,6 +29,7 @@ My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at
 
 
 # Detailed Catalogue
+
 ## Bike Sentry
 ### Summary
 Bike Sentry is a solution that my capstone team and I have generated to combat an issue that crosses all cyclist's minds at differing capacities - bike theft. Our solution elegantly combined all of the interests of our diverse group members by including non-trivial tasks in software, electrical, and mechanical engineering. We split our group of five into three subteams: mechanical, electrical, and software. My role is on the software subteam.
@@ -46,12 +47,13 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Progress
 
 ## AgroBot
-<img src="https://github.com/afong3/me/tree/main/images/agrobot_sim_led.gif"
-     alt = "sim_gif" width = "400" height = "500">
+![led_sim_gif](../main/images/agrobot_led_sim.gif)
 ### Summary
 ### Progress
 
 ## Star Collector
+![led_sim_gif](../main/images/star_collector.png)
+
 ### Summary
 ### Progress
 
@@ -68,16 +70,21 @@ As there are still a couple of months left in our academic term, we have yet to 
 ### Outcome
 
 ## Mom Updater
+
 ### Summary
 ### Outcome
 
 ## Line Following Robot
+![lfr_1](../main/images/line_following_robot_1.jpg)
+![lfr_2](../main/images/line_following_robot_2.jpg)
+![lfr_3](../main/images/line_following_robot_3.jpg)
+
 ### Summary
 ### Outcome
 
 ## Electric Ukulele
-![uke](https://github.com/afong3/me/tree/main/images/electric_ukulele_1.jpg)
-![uke_2](https://github.com/afong3/me/tree/main/images/electric_ukulele_2.jpg)
+![uke_1](../main/images/electric_ukulele_1.jpg)
+![uke_2](../main/images/electric_ukulele_2.jpg)
 ### Summary
 ### Outcome
 
@@ -96,6 +103,5 @@ As there are still a couple of months left in our academic term, we have yet to 
 Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our projects substantially more interesting than a capstone filled of 5 students from the same facutly. For example, software focused students get to work closely with students who love cars (mech), students who prefer to herd electrons (elec), and students who like to putting concrete under compression (civil). 
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
