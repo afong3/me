@@ -1,4 +1,4 @@
-# Welcome to my Porfolio!
+# Welcome to my Portfolio!
 
 # About
 My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at the University of British Columbia, Vancouver campus. (If you haven't heard about IGEN before, [click me!](#about-igen)). I love learning practical skills and applying them to new and old problems. My current muse is data analysis but I'm pretty content whenever I have a fun problem that can be tackled with code. When I'm not working on my projects, I love getting outside spending time soaking in the sunshine (or more accurately, rain) in Beautiful British Columbia. 
