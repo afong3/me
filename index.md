@@ -55,7 +55,19 @@ As there are still a couple of months left in our academic term, we have yet to 
 ![star_collector](/images/star_collector.png)
 
 ### Summary
+My love for outdoor sports arose when I first moved to Vancouver, BC. I picked up road cycling, open water swimming, scrambling, trail running, and continued rock climbing. Vancouver is truly a one-of-a-kind location for an outdoor enthusiast. The tough reality of being a "weekend warrior" free weekends become scarce as the school year progresses. Luckily for UBC students, we have immediate access to over 70 kilometers of beautiful trails in our backyard paradise, Pacific Spirit Regional Park (PSP).
+
+I've spent many hours running and biking through PSP and have loved every minute of it - my exercising time in the forest is how I recover from long days. But like all things, the trails that I frequent have become more and more familiar and my drive to get out to the far corners of the park has faded. But I like to throw code at my problems so no worries! 
+
+[Star Collector](https://github.com/afong3/StarCollector) a tool which takes my (and some of my other trail enthusiasts') GPX data from Strava and highlights which trails have and haven't been traveled since a given date. The pursuit of collecting all the stars has been a great motivator and showed me portions of the park that I would have missed otherwise. My code has been written so that I could easily adapt this 'star collection' to be implemented on any trail / road network. This could even be leveraged into a reward system (if this tool was implemented on some social platform)! But for now, it just removes the mental load of deciding what my route will be. All I have to do is go collect a new star and I'll be satisfied. 
+
 ### Progress
+- Data retrievel from Strava's REST api
+- Automatic map generation with red and gold stars for uncollected and collected 
+
+### TODO
+- integrate Strava's OAuth2.0 protocol with redirects for any Strava user to use the app
+- Attempt to convert this into ReactJS 
 
 ## MusicMe
 ### Summary
