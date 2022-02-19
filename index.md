@@ -32,24 +32,40 @@ My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at
 
 ## Bike Sentry
 ### Summary
-Bike Sentry is a solution that my capstone team and I have generated to combat an issue that crosses all cyclist's minds at differing capacities - bike theft. Our solution elegantly combined all of the interests of our diverse group members by including non-trivial tasks in software, electrical, and mechanical engineering. We split our group of five into three subteams: mechanical, electrical, and software. My role is on the software subteam.
-
-As there are still a couple of months left in our academic term, we have yet to finish but have maintained steady prototyping. 
+Bike Sentry is a solution that my capstone team and I have generated to combat an issue that crosses all cyclist's minds - bike theft. Our solution elegantly combined all of the interests of our diverse group members by including non-trivial tasks in software, electrical, and mechanical engineering. The main preventative measure is by allowing cyclists to opt into an alert system which is constantly monitoring their bike while they are away. If any thief wants to cut a U-lock on the bike rack, our microphones will detect the angle grinder and enter theft mode. Our onboard IoT computers will notify all cyclists who have their bikes attached to the rack as well as the authorities of a theft in progress. 
 
 ### Contributions
+- High level design of software components including, pan & tilt control, object detection, live audio classification
+- Collecting data for, researching, and training a binary audio classifier to distinguish between environmental noise and angle grinders
+- Deployed binary classifier within a ROS environment on Raspberry Pi which constantly classifies audio snippets from a USB microphone
 
-
-
-### Progress
-
-## Grapevine Cold Hardiness
+## [Grapevine Cold Hardiness](https://github.com/afong3/hardiness)
 ### Summary
+For northern wine regions like the Okanagan Valley in British Columbia, freezing events in winter can cause grapevine death and economic losses. Knowing when the air temperature is cold enough to be damaging is of great value as preventative measures can be taken, but at a large cost. Combining the weather forecast and a prediction of the lethal temperature for a grapevine on a given day can be very important in the decision to protect the crop or not. The tricky part about knowing when it's too cold out for the crop is that grapevine's tolerance to cold is dynamic throughout the winter and varies by cultivar, the weather, and more. I'm attempting to predict the lowest temperature that a grapevine located in the Okanagan Valley, BC can survive in based on data from the nearest weather station to the vineyards in Penticton. 
+
+While I do not understand the mechanisms behind how grapevine cold hardiness changes throughout winter, I am using this interesting topic to gain familiarity in different modeling frameworks and learn about ecological processes as a byproduct. My original approach was to come from a black-box, machine learning persepctive. And to complement this I'm taking a more involved, and hopefully interpretable, Bayesian approach.
+
 ### Progress
+- **Preparation**
+- cleaned weather and cold hardiness data 
+- created methods to easily manipulate data for feature engineering and add new predictors quickly
+- **ML**
+- large correlation analysis with different grouping factors to find good predictors 
+- prediction for Sauvignon blanc at one vineyard
+- **Bayesian**
+- learning rstanarm and stan
+- data simulation and parameter recovery
 
 ## AgroBot
 ![led_sim_gif](/images/agrobot_led_sim.gif)
 ### Summary
+AgroBot is a UBC Design Team which is aiming to minimize pesticide usage and/or manual labor by automating the weed removal process in crop rows. The robot will straddle a crop row and move down the line. Using computer vision to identify weeds from crops on the ground, an array of pesticide sprayers will dispense pesticide only where it's needed to exterminate the weed. 
+
+My role is to aid in the software implementation of the weed extermination. 
+
 ### Progress
+- developed robust method to sort a constant feed of weed locations and assign the correct sprayer(s) to spray on time
+- simulated weed identification and sprayer actuation in a ROS environment on a RaspberryPi connected to LED's 
 
 ## Star Collector
 ![star_collector](/images/star_collector.png)
@@ -69,9 +85,7 @@ I've spent many hours running and biking through PSP and have loved every minute
 - integrate Strava's OAuth2.0 protocol with redirects for any Strava user to use the app
 - Attempt to convert this into ReactJS 
 
-## MusicMe
-### Summary
-### Outcome
+
 
 ## Brain Signal Classification
 ### Summary
@@ -100,6 +114,15 @@ I've spent many hours running and biking through PSP and have loved every minute
 ### Summary
 ### Outcome
 
+## [MusicMe](https://erikdahl.ca/apps/musicme/#/)
+### Summary
+MusicMe was our 2nd year capstone team's attempt at merging text tone analysis and music recommendations. Any Spotify user can sign into the webapp, enter their thoughts, and have a song based on their input's tone. We also added some fun features such as picking a random song from our database. The recommendations are far from perfect but this was the first larger software project I've been able to work on.
+
+### Role/Outcome
+- Set up a Google Firebase database which stored user and song data
+- worked on the API calls to IBM tone analyzer 
+- Introduction to OOP
+
 ## Cycling
 ### Bellingham, WA to Williston, ND Bike Tour (3000 km)
 ![bike_tour_map](/images/bike_tour_final.png)
@@ -112,7 +135,7 @@ I've spent many hours running and biking through PSP and have loved every minute
 # About IGEN 
 [Integrated Engineering](https://www.integratedengineers.ca/) is a one of a kind, group-project focused, and interdisciplinary engineering degree in which students learn fundamental engineering concepts in each of the classical disciplines. Not only do we get to work on a year long capstone in our 2nd, 3rd, and 4th years - we think of and propose the projects, giving us experience in concept generation and effectively pitching our ideas to our peers. 
 
-Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our group projects substantially more interesting than a capstone filled of 5 students from the same discipline. For example, software focused students get to work closely with students who love cars (mech), students who prefer to herd electrons (elec), and students who like to putting concrete under compression (civil). 
+Our multidisciplinary foundation is supplemented by choosing a major and minor discipline to further study after tasteing a bit of each engineering flavor. Each student can take a unique educational route, making our group projects substantially more interesting than a capstone filled of 5 students from the same discipline. 
 
 
 
