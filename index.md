@@ -1,7 +1,7 @@
 # Welcome to my Portfolio!
 
 # About
-My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at the University of British Columbia, Vancouver campus. (If you haven't heard about IGEN before, [click me!](#about-igen)). I love learning practical skills and applying them to new and old problems. My current muse is data analysis but I'm pretty content whenever I have a fun problem that can be tackled with code. When I'm not working on my projects, I love getting outside spending time soaking in the sunshine (or more accurately, rain) in Beautiful British Columbia. 
+My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at the University of British Columbia, Vancouver campus. (If you haven't heard about IGEN before, [click me!](#about-igen)). I love learning practical skills and applying them to new and old problems. My current muse is data analysis but I'm pretty content whenever I have a challenging problem to tackle. When I'm not working on my projects, I love getting outside spending time soaking in the sunshine (or more accurately, rain) in Beautiful British Columbia. 
 
 # Projects
 
@@ -24,9 +24,6 @@ My name is Adam Fong and I'm a 3rd year Integrated Engineering (IGEN) student at
 - [Open Water Swimming](#open-water-swimming)
 - [Rock Climbing (indoors and outdoors)](#rock-climbing)
 - [Trail Running](#trail-running)
-
-# Work Experience
-
 
 # Detailed Catalogue
 
@@ -88,8 +85,19 @@ I've spent many hours running and biking through PSP and have loved every minute
 
 
 ## Brain Signal Classification
+![muse_1](/images/muse.png =x250)
 ### Summary
+This project was a group project for the Machine Learning (ML) and Artificial Intelligence in Manufacturing course that I have taken. The main goal of the project was to complete a ML project from data collection all the way to validation. Our task was to make a binary classifier to find a difference in brain signal states among our group members. We chose to classify if our members were caffeinated or uncaffeinated. To prevent overstepping the scope of this course by adding too much data collection rigor, we recorded data immediately after drinking coffee and after not having coffee for 24 hours for each of our members. 
+
+After recording all our data, we coded a preprocessing pipeline to analyze n-second windows of the signals - producing aggregate statistics on each window. These features were used to train an ANN, KNN, SVC, and Random Forest classifier to compare accuracy. 
+
 ### Outcome
+- Familiarity with Google Colab
+- Trained multiple deep and non-deep learning ML classifiers 
+- Learned how to perform FFT on time series data
+- Experimented with feature creation and optimizing calculation speeds
+- Experienced how fun it is to contribute to a project from data collection to validation
+- Improved familiarity with Numpy, Keras, SciKit-learn
 
 ## Climate Mapping
 ### Summary
@@ -127,6 +135,8 @@ MusicMe was our 2nd year capstone team's attempt at merging text tone analysis a
 ### Bellingham, WA to Williston, ND Bike Tour (3000 km)
 ![bike_tour_map](/images/bike_tour_final.png)
 
+### Summary
+From July 15, 2021 to August 15, 2021 I was on a bike tour from Bellingham, WA to Williston, ND with four friends. I cycled 3,000 km's, entered three time zones, and spent the night in nearly 30 new locations. The summer of 2021 was a terrible year for wildfires and our route had been detoured a few times to avoid them. Not having a plan set in stone was liberating after having a year of a rigid, online school, schedule. The generosity of strangers, the small towns I passed through, the pace of travel, and the camaraderie made this trip unforgettable. I'm looking forward to the next time I'm able to travel by bike. 
 
 ## Open Water Swimming
 
