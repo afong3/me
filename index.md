@@ -104,7 +104,6 @@ After recording all our data, we coded a preprocessing pipeline to analyze n-sec
 ### Outcome
 
 ## Mom Updater
-
 ### Summary
 ### Outcome
 
@@ -114,13 +113,23 @@ After recording all our data, we coded a preprocessing pipeline to analyze n-sec
 ![lfr_3](/images/line_following_robot_3.jpg)
 
 ### Summary
+This robot was a part of the curriculum for my Introduction to Engineering Design course. The goal was to create a wheeled robot which could follow a black line and navigate a track. This was my first introduction to using an Arduino and building circuits. Because everything was built at my house during the first term of online courses, nothing was soldered and all exterior components were required to be common household items. 
+
 ### Outcome
+- Familiarity with Arduino
+- Experience reading datasheets for sensors (Infrared, H-bridge, motors)
 
 ## Electric Ukulele
 ![uke_1](/images/electric_ukulele_1.JPG)
 ![uke_2](/images/electric_ukulele_2.JPG)
+
 ### Summary
+For my high school introduction to engineering course, one of the projects was to come up with an engineering design and make it. My idea was to make a more portable and durable ukulele by making it electric and out of one sheet of wood. I modeled the simple body in CAD based on dimensions for the fretboard, tuners, and electric pickup that I had bought. After making the model, I exported the converted the file to G code and then cut the body out of a sheet of mahogany. Drilling, assembly, and playing remained after the milling finished. 
+
 ### Outcome
+- Experience making a 3D model for CNC milling
+- Introduced me to engineering design 
+- Made a fun instrument to play
 
 ## [MusicMe](https://erikdahl.ca/apps/musicme/#/)
 ### Summary
